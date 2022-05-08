@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6f2fc04.css",
+    "main.css": "/static/css/main.db949934.css",
     "main.js": "/static/js/main.a7fa4a4a.js",
     "static/media/photo.png": "/static/media/photo.366b640ca2f0400ab025.png",
     "static/media/Revalia.ttf": "/static/media/Revalia.ee5b4bb5a8df52b45cb3.ttf",
@@ -11,11 +11,11 @@
     "static/media/github.svg": "/static/media/github.0099e2e0739d8f2f0f0469440be87801.svg",
     "static/media/instagram.svg": "/static/media/instagram.7422a3cfc2cf95174d10d424459cbed7.svg",
     "index.html": "/index.html",
-    "main.c6f2fc04.css.map": "/static/css/main.c6f2fc04.css.map",
+    "main.db949934.css.map": "/static/css/main.db949934.css.map",
     "main.a7fa4a4a.js.map": "/static/js/main.a7fa4a4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6f2fc04.css",
+    "static/css/main.db949934.css",
     "static/js/main.a7fa4a4a.js"
   ]
 }
