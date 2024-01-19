@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.eef6e45e.css",
+    "main.css": "/static/css/main.80bd2c34.css",
     "main.js": "/static/js/main.58c71b78.js",
     "index.html": "/index.html",
     "static/media/calendar.svg": "/static/media/calendar.fd5a3dfaf6ba75ded076.svg",
-    "main.eef6e45e.css.map": "/static/css/main.eef6e45e.css.map",
+    "main.80bd2c34.css.map": "/static/css/main.80bd2c34.css.map",
     "main.58c71b78.js.map": "/static/js/main.58c71b78.js.map"
   },
   "entrypoints": [
-    "static/css/main.eef6e45e.css",
+    "static/css/main.80bd2c34.css",
     "static/js/main.58c71b78.js"
   ]
 }
