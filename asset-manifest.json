@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3f2e6c5.css",
-    "main.js": "/static/js/main.deb18462.js",
+    "main.css": "/static/css/main.606de7b8.css",
+    "main.js": "/static/js/main.da838380.js",
+    "static/css/8.7cd2e181.chunk.css": "/static/css/8.7cd2e181.chunk.css",
+    "static/js/8.43a98ba7.chunk.js": "/static/js/8.43a98ba7.chunk.js",
     "index.html": "/index.html",
-    "static/media/calendar.svg": "/static/media/calendar.fd5a3dfaf6ba75ded076.svg",
-    "main.f3f2e6c5.css.map": "/static/css/main.f3f2e6c5.css.map",
-    "main.deb18462.js.map": "/static/js/main.deb18462.js.map"
+    "main.606de7b8.css.map": "/static/css/main.606de7b8.css.map",
+    "main.da838380.js.map": "/static/js/main.da838380.js.map",
+    "8.7cd2e181.chunk.css.map": "/static/css/8.7cd2e181.chunk.css.map",
+    "8.43a98ba7.chunk.js.map": "/static/js/8.43a98ba7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3f2e6c5.css",
-    "static/js/main.deb18462.js"
+    "static/css/main.606de7b8.css",
+    "static/js/main.da838380.js"
   ]
 }
